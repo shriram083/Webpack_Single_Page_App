@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 30px;
+    color: rgb(243, 104, 24);
+}
+.innerBox{
+    background-color: #f2a500;
+    border-radius: 20px;
+    width: 80%;
+    margin: auto;
+    padding: 30px;
+    display: flex;
+    margin-top: 50px;
+    gap: 50px;
+    /* flex-wrap: wrap; */
+}
+.contentBox{
+    font-size: 25px;
+}
+.imgbox h1{
+    text-align: center;
+    font-size: 40px;
+}
